@@ -19,5 +19,7 @@ This Flutter app dynamically renders a series of red boxes in the shape of the l
 
 ```bash
 git clone https://github.com/your-username/c-shape-box-animation.git
+cd c-shape-box-animation
+code . (Lauch vs code shortcut)
 flutter pub get
 flutter run
