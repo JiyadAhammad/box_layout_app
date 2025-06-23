@@ -16,6 +16,6 @@ This Flutter app dynamically renders a series of red boxes in the shape of the l
 
 ## 🧪 How to Run
 
-Clone the repository
-flutter pub get
+Clone the repository \n
+flutter pub get \n
 flutter run
