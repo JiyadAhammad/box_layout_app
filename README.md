@@ -15,7 +15,9 @@ This Flutter app dynamically renders a series of red boxes in the shape of the l
 - `Future.delayed` for animation timing
 
 ## 🧪 How to Run
+## 🧪 How to Run
 
-Clone the repository \n
-flutter pub get \n
+```bash
+git clone https://github.com/your-username/c-shape-box-animation.git
+flutter pub get
 flutter run
